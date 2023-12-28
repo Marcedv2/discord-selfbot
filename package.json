@@ -1,0 +1,20 @@
+{
+  "name": "trauma-selfbot",
+  "version": "1.0.0",
+  "description": "latest discord.js selfbot with lots of utilities, well maintained",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "clear": "^0.1.0",
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "discord.js-self-v22": "^1.0.0",
+    "http": "^0.0.1-security"
+  }
+}
