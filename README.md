@@ -52,7 +52,7 @@
 
 1. * download the repository or clone using
   ```sh
-  git clone https://github.com/discordtics/token-gen.git
+  git clone https://github.com/Marcedv2/discord-selfbot.git
   ```
 2.   *  run the setup.bat file or
   ```sh
