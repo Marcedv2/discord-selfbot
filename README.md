@@ -78,7 +78,7 @@ Ensure your system meets these prerequisites:
 3. Windows 10 or 11.
 4. A curious mind.
 
-> Note: As of nov  dec 24, 2023, Exarc token gen is working fine and theres no problem nor account termination, but be safe with this and do not cause ny harm.
+
 
 > To aspiring developers: This source code is generously shared to facilitate understanding of automations and external API uses without relying on a private one
 
