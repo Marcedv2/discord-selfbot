@@ -44,7 +44,7 @@
 
 
 
-![Selfbot in action](images/image.png)
+![Selfbot in action](./image.png)
 
 ## Installation Instructions
 
