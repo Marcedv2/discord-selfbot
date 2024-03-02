@@ -145,7 +145,7 @@ class WebSocketManager extends EventEmitter {
     /*
       .catch(error => {
         // Never throw error :v
-        // throw error.httpStatus === 401 ? invalidToken : error;
+        // throw error.httpStatus === 401 ? invalidToken : error;a
       });
       */
     if (url) gatewayURL = url;
