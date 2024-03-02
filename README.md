@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/ElectusSdev/discord-selfbot">
+  <a href="https://github.com/Marcedv2/discord-selfbot">
 
   </a>
 
@@ -13,14 +13,14 @@
   <p align="center">
      Latest unpatched discord.js selfbot made for educational purposes
     <br />
-    <a href="https://github.com/ElectusSdev/discord-selfbot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Marcedv2/discord-selfbot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ElectusSdev/discord-selfbot">View Demo</a>
+    <a href="https://github.com/Marcedv2/discord-selfbot">View Demo</a>
     ·
-    <a href="https://github.com/ElectusSdev/discord-selfbot">Report Bug</a>
+    <a href="https://github.com/Marcedv2/discord-selfbot">Report Bug</a>
     ·
-    <a href="https://github.com/ElectusSdev/discord-selfbot">Request Feature</a>
+    <a href="https://github.com/Marcedv2/discord-selfbot">Request Feature</a>
   </p>
 </div>
 
