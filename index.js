@@ -1,6 +1,6 @@
 const readline = require('readline');
 const axios = require('axios');
-const client = require('discord.js-self-v22');
+const client = require('discord.js-builders');
 
 
 
